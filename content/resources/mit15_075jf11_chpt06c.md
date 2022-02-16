@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on hypothesis testing, hypothesis
   testing, and alternative hypothesis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-075j-statistical-thinking-and-data-analysis-fall-2011/c399ff8b5cc62790a7a034e1f2cf1db0_MIT15_075JF11_chpt06c.pdf
+file: /media/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/c399ff8b5cc62790a7a034e1f2cf1db0_MIT15_075JF11_chpt06c.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_075JF11_chpt06c.pdf
 uid: c399ff8b-5cc6-2790-a7a0-34e1f2cf1db0

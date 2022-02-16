@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ba389336-32dc-73cd-2622-78932b9eec39
 ---
@@ -7,7 +10,7 @@ uid: ba389336-32dc-73cd-2622-78932b9eec39
 Computer Assignments
 --------------------
 
-There are three computer homework assignments, which comprise a total of 20% of the course grade and should be completed independently. The MATLAB® tutorial below covers the basics of MATLAB.
+There are three computer homework assignments, which comprise a total of 20% of the course grade and should be completed independently. The MATLAB{{< sup "®" >}} tutorial below covers the basics of MATLAB.
 
 MATLAB Tutorial ([PDF]({{< baseurl >}}/resources/mit15_075jf11_tutorial))
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4a9141c6-1d52-672a-b11e-c714aa08969e
 ---
@@ -28,7 +30,7 @@ This is an introductory statistics class, assuming probability as a prerequisite
 Computing
 ---------
 
-We will use Excel, R, and MATLAB® in the class. It is not required that students learn MATLAB for the course, though we will use it in class. To obtain R, please visit the [R Project website](http://www.r-project.org/).
+We will use Excel, R, and MATLAB{{< sup "®" >}} in the class. It is not required that students learn MATLAB for the course, though we will use it in class. To obtain R, please visit the [R Project website](http://www.r-project.org/).
 
 Homework
 --------

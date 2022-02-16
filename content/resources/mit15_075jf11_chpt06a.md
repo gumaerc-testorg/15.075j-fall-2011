@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on confidence intervals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-075j-statistical-thinking-and-data-analysis-fall-2011/efe16fc4f11d1c72bd0a3498c1935b73_MIT15_075JF11_chpt06a.pdf
+file: /media/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/efe16fc4f11d1c72bd0a3498c1935b73_MIT15_075JF11_chpt06a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_075JF11_chpt06a.pdf
 uid: efe16fc4-f11d-1c72-bd0a-3498c1935b73
