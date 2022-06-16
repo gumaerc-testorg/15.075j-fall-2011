@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the three computer homework assignments of the
+  course, solutions, and optional homework assignments from the course textbook.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ Computer Assignments
 
 There are three computer homework assignments, which comprise a total of 20% of the course grade and should be completed independently. The MATLAB{{< sup "®" >}} tutorial below covers the basics of MATLAB.
 
-MATLAB Tutorial ([PDF]({{< baseurl >}}/resources/mit15_075jf11_tutorial))
+MATLAB Tutorial ({{% resource_link fdebbc0c-f103-08a9-7fd1-14090c0f3d12 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -35,10 +37,10 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_assn01))
+({{% resource_link fe3961d1-b9b7-c650-f579-c7aa408292b5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_soln01))
+({{% resource_link 4fc9e812-ff38-b56d-b956-47110c6c9a99 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,10 +49,10 @@ SOLUTIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_assn02))
+({{% resource_link 309c35af-65d8-651b-e221-e8751c4123a2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_soln02))
+({{% resource_link b23d47d7-db96-c445-adf0-a275546ba4f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,10 +61,10 @@ SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_assn03))
+({{% resource_link daa35759-7fc1-a5cd-2bfe-ff302ec145bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_soln03))
+({{% resource_link 0eef05e1-2db0-982a-ddaa-6a141598d497 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
