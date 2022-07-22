@@ -6,6 +6,7 @@ file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/8a824c52
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT15_075JF11_exam02_soln.pdf
 uid: 8a824c52-902a-c381-9a13-10e097a98ff9
 ---
 This resource contains information on the solution of exam 2 based on total success rates, and probability.
-

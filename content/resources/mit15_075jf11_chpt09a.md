@@ -6,6 +6,7 @@ file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/0fa15fa0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT15_075JF11_chpt09a.pdf
 uid: 0fa15fa0-462a-921a-f5d4-93f45a3f0809
 ---
 This resource contains information on inference for proportion and count data, comparing 2 proportions.
-

@@ -5,6 +5,7 @@ file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/d592d16d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_075JF11_chpt06b.pdf
 uid: d592d16d-17af-2747-0dfe-6151e3461e50
 ---
 This resource contains information on mean-squared error (MSE).
-
