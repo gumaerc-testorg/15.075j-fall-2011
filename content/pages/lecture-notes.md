@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides course notes corresponding to chapters from the
+  course textbook.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8f032cd7-b3cb-dbc6-0fff-72c96198b703
 ---
@@ -32,7 +37,7 @@ NOTES
 Review of Probability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt02))
+({{% resource_link 6c4b9894-9fe3-e0ac-ae5f-75245e4b09dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +49,7 @@ Review of Probability
 Collecting Data
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt03))
+({{% resource_link 3b37951f-cbab-6644-a275-11d7616576a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +61,7 @@ Collecting Data
 Summarizing and Exploring Data
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt04))
+({{% resource_link e8d615e7-2bb6-d384-e34f-c2a10a8f03cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +73,7 @@ Summarizing and Exploring Data
 Sampling Distributions of Statistics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt05))
+({{% resource_link 9b2bc099-2dc9-8056-a903-c1c9d5797d73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,11 +87,11 @@ Basic Concepts of Inference
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt06a))
+({{% resource_link efe16fc4-f11d-1c72-bd0a-3498c1935b73 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt06b))
+({{% resource_link d592d16d-17af-2747-0dfe-6151e3461e50 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt06c))
+({{% resource_link c399ff8b-5cc6-2790-a7a0-34e1f2cf1db0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -100,7 +105,7 @@ Basic Concepts of Inference
 Inferences for Single Samples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt07))
+({{% resource_link 00da8087-b863-814d-7d15-0a63912fa9da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Inferences for Single Samples
 Inferences for Two Samples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt08))
+({{% resource_link bc685a88-00af-30a1-0b3d-c72433bbf326 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,11 +131,11 @@ Inferences for Proportions and Count Data
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt09a))
+({{% resource_link 0fa15fa0-462a-921a-f5d4-93f45a3f0809 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt09b))
+({{% resource_link 0ea0f39a-2480-e584-b883-fcd8864f147b "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt09c))
+({{% resource_link a72cd761-b5d4-4b30-068b-95d2c4375cd4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -144,7 +149,7 @@ Inferences for Proportions and Count Data
 Similar Linear Regression and Correlation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt10))
+({{% resource_link ddc78dd2-737c-4a68-130e-976afb7b1f5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Similar Linear Regression and Correlation
 Multiple Linear Regression
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt11))
+({{% resource_link 7eb4f226-155e-2a85-9411-2f9802737ec3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Multiple Linear Regression
 Nonparametric Statistical Methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_075jf11_chpt14))
+({{% resource_link 57203a74-06e2-46b9-348e-90f1fd021576 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
