@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on confidence intervals.
 file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/efe16fc4f11d1c72bd0a3498c1935b73_MIT15_075JF11_chpt06a.pdf
+file_size: 239408
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
