@@ -32,7 +32,7 @@ This is an introductory statistics class, assuming probability as a prerequisite
 Computing
 ---------
 
-We will use Excel, R, and MATLAB{{< sup "®" >}} in the class. It is not required that students learn MATLAB for the course, though we will use it in class. To obtain R, please visit the {{% resource_link "01db117d-f2ae-4014-84e3-5e45b06ccd0a" "R Project website" %}}.
+We will use Excel, R, and MATLAB{{< sup "®" >}} in the class. It is not required that students learn MATLAB for the course, though we will use it in class. To obtain R, please visit the [R Project website](http://www.r-project.org/).
 
 Homework
 --------
