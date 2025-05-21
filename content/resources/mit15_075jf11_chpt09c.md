@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on inferences for two way count data.
-file: /ol-ocw-studio-app/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/a72cd761b5d44b30068b95d2c4375cd4_MIT15_075JF11_chpt09c.pdf
+file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/a72cd761b5d44b30068b95d2c4375cd4_MIT15_075JF11_chpt09c.pdf
 file_size: 171785
 file_type: application/pdf
 learning_resource_types:
