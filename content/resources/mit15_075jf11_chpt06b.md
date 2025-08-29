@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on mean-squared error (MSE).
-file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/d592d16d17af27470dfe6151e3461e50_MIT15_075JF11_chpt06b.pdf
+file: /ol-ocw-studio-app/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/d592d16d17af27470dfe6151e3461e50_MIT15_075JF11_chpt06b.pdf
 file_size: 153804
 file_type: application/pdf
 learning_resource_types:

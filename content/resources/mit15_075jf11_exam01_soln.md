@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the solution of exam 1 based on
   probability, and conditional probability.
-file: /courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/1b4389fbb9a61f8cacc0409c7041d3ff_MIT15_075JF11_exam01_soln.pdf
+file: /ol-ocw-studio-app/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/1b4389fbb9a61f8cacc0409c7041d3ff_MIT15_075JF11_exam01_soln.pdf
 file_size: 228662
 file_type: application/pdf
 learning_resource_types:
